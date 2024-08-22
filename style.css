@@ -1,0 +1,18 @@
+body h2{
+    text-align: center;
+    font-family: 'Pacifico';
+    color: #D7CCC8;
+}
+
+
+
+.carousel-inner img{
+    max-width: auto;
+    max-height: 30%;
+}
+
+.row h3{
+    text-align: center;
+    font-family: 'Pacifico';
+    color: #D7CCC8;
+}
