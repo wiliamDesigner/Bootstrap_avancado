@@ -24,6 +24,6 @@ body h2{
 }
 
 .row img{
-    max-width: 70%;
-    max-height: auto;
+    max-width: 180px;
+    max-height: 180px;
 }
