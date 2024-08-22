@@ -12,11 +12,12 @@ body h2{
 }
 
 .row h3{
+    text-align: center;
     font-family: 'Pacifico';
     color: #D7CCC8;
 }
 
 .row img{
-    max-width: 70%;
+    max-width: 90%;
     max-height: auto;
 }
