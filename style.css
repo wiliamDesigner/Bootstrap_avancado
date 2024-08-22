@@ -12,9 +12,15 @@ body h2{
 }
 
 .row h3{
-    text-align: center;
+    margin-top: 10px;
     font-family: 'Pacifico';
     color: #D7CCC8;
+    margin-left: 70px;
+}
+
+.titulocard{
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .row img{
